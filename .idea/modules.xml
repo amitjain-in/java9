@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TousLesTravielle.iml" filepath="$PROJECT_DIR$/TousLesTravielle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/amit-scala-stuff/amit-scala-stuff.iml" filepath="$PROJECT_DIR$/amit-scala-stuff/amit-scala-stuff.iml" />
+      <module fileurl="file://C:/Development/high-scalable/high-scale-lib-master/high-scale-lib.iml" filepath="C:/Development/high-scalable/high-scale-lib-master/high-scale-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java10/java10.iml" filepath="$PROJECT_DIR$/java10/java10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quiz-webservice/quiz-webservice.iml" filepath="$PROJECT_DIR$/quiz-webservice/quiz-webservice.iml" />
+    </modules>
+  </component>
+</project>
