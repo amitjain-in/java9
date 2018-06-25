@@ -1,5 +1,5 @@
 "id","level","question","topic","options","answer","comment"
-"1","1","What is the capital of India?","Geography:India:Capitals","Mumbai:New Delhi:Kolkota:Bangalore","Mumbai",""
+"1","1","What is the capital of India?","Geography:India:Capitals","Mumbai:New Delhi:Kolkota:Bangalore","New Delhi",""
 "2","1","What is the capital of Argentina?","Geography:Argentina:Capitals","Buenos Aries:La Plata:Rosario:Córdoba","Buenos Aries",""
 "3","2","What is the capital of Czech Republic","Geography:Czech:Capitals","Prague:Ostrava:Brussels:Minsk","Prague",""
 "4","3","Which place has received most rainfall in a month?","Geography,Weather","Mawsynram (India):Cherrapunji (India):Debundscha (Cameroon)","Cherrapunji (India)","Even though Mawsynram holds the record for most average annual rainfall, Cherrapunji holds this record for July 1861 (26,461 mm)"
